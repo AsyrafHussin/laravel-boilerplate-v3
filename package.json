@@ -12,7 +12,7 @@
     "devDependencies": {
         "@ckeditor/ckeditor5-build-classic": "^29.0.0",
         "autoprefixer": "^10.3.1",
-        "bootstrap": "^4.6.0",
+        "bootstrap": "^5.0.2",
         "bootstrap-datepicker": "^1.9.0",
         "boxicons": "^2.0.8",
         "browser-sync": "^2.26.14",

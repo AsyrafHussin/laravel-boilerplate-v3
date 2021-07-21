@@ -15,7 +15,7 @@ My Laravel Boilerplate v3
 -   [SweetAlert2](https://sweetalert2.github.io)
 -   [CKEditor](https://ckeditor.com)
 -   [Boxicons](https://boxicons.com)
--   [Bootstrap v4](https://getbootstrap.com)
+-   [Bootstrap v5](https://getbootstrap.com)
 -   [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
 -   Helpers file
 -   Seeder for users and roles
