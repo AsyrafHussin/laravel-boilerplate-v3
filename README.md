@@ -20,7 +20,7 @@ My Laravel Boilerplate v3
 -   Helpers file
 -   Seeder for users and roles
 -   Auth - Login and Register
--   Auth, Amin and User route
+-   Auth, Admin and User route
 -   Master Page - Auth and Dashboard
 -   Success and error message using SweetAlert2
 -   Asia/Kuala_Lumpur timezone
