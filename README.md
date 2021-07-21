@@ -28,7 +28,7 @@ My Laravel Boilerplate v3
 
 ```bash
 # Clone the repo
-git clone https://github.com/AsyrafHussin/laravel-boilerplate-v2.git <project-name>
+git clone https://github.com/AsyrafHussin/laravel-boilerplate-v3.git <project-name>
 
 # Navigate to clonned folder
 cd <project-name>
