@@ -1,6 +1,6 @@
 # Laravel Boilerplate
 
-My Laravel Boilerplate v2
+My Laravel Boilerplate v3
 
 ## Laravel Version
 
