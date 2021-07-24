@@ -14,6 +14,7 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.40",
         "laravel/tinker": "^2.5",
+        "predis/predis": "^1.1",
         "pyaesone17/active-state": "^1.1.1",
         "silber/bouncer": "v1.0.0-rc.10"
     },
