@@ -1,4 +1,4 @@
-# Laravel Boilerplate
+# Laravel Boilerplate Test
 
 My Laravel Boilerplate v3
 
