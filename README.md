@@ -24,6 +24,7 @@ My Laravel Boilerplate v3
 -   Master Page - Auth and Dashboard
 -   Success and error message using SweetAlert2
 -   Asia/Kuala_Lumpur timezone
+-   Redis
 
 ## Getting Started
 
