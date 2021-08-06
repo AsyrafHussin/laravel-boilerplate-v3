@@ -10,9 +10,9 @@
         "production": "mix --production"
     },
     "devDependencies": {
-        "@ckeditor/ckeditor5-build-classic": "^29.0.0",
+        "@ckeditor/ckeditor5-build-classic": "^29.1.0",
         "autoprefixer": "^10.3.1",
-        "bootstrap": "^5.0.2",
+        "bootstrap": "^5.1.0",
         "bootstrap-datepicker": "^1.9.0",
         "boxicons": "^2.0.8",
         "browser-sync": "^2.26.14",
@@ -28,7 +28,7 @@
         "resolve-url-loader": "^4.0.0",
         "sass": "1.32.13",
         "sass-loader": "^12.1.0",
-        "sweetalert2": "^11.0.19",
+        "sweetalert2": "^11.1.2",
         "vue-template-compiler": "^2.6.12"
     }
 }
