@@ -25,6 +25,7 @@ My Laravel Boilerplate v3
 -   Success and error message using SweetAlert2
 -   Asia/Kuala_Lumpur timezone
 -   Redis
+-   Laravel Sanctum
 
 ## Getting Started
 
