@@ -17,6 +17,7 @@ My Laravel Boilerplate v3
 -   [Boxicons](https://boxicons.com)
 -   [Bootstrap v5](https://getbootstrap.com)
 -   [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)
+-   [laravel-image-sanitize](https://github.com/laravel-at/laravel-image-sanitize)
 -   Helpers file
 -   Seeder for users and roles
 -   Auth - Login and Register
