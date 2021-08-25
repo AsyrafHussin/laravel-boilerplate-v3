@@ -35,6 +35,10 @@ return [
             'driver' => 'apc',
         ],
 
+        'octane' => [
+            'driver' => 'octane',
+        ],
+
         'array' => [
             'driver' => 'array',
             'serialize' => false,
@@ -84,10 +88,6 @@ return [
             'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
             'table' => env('DYNAMODB_CACHE_TABLE', 'cache'),
             'endpoint' => env('DYNAMODB_ENDPOINT'),
-        ],
-
-        'octane' => [
-            'driver' => 'octane',
         ],
     ],
 
