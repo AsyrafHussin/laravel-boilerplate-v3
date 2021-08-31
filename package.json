@@ -10,7 +10,7 @@
         "production": "mix --production"
     },
     "devDependencies": {
-        "@ckeditor/ckeditor5-build-classic": "^29.1.0",
+        "@ckeditor/ckeditor5-build-classic": "^29.2.0",
         "autoprefixer": "^10.3.3",
         "bootstrap": "^5.1.0",
         "bootstrap-datepicker": "^1.9.0",
@@ -21,7 +21,7 @@
         "cssnano": "^5.0.8",
         "import-glob-loader": "^1.1.0",
         "jquery": "^3.6.0",
-        "laravel-mix": "^6.0.28",
+        "laravel-mix": "^6.0.29",
         "lodash": "^4.17.21",
         "popper.js": "^1.16",
         "postcss": "^8.3.6",
