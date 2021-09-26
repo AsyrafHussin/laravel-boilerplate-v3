@@ -11,7 +11,7 @@
     },
     "devDependencies": {
         "@ckeditor/ckeditor5-build-classic": "^29.2.0",
-        "autoprefixer": "^10.3.5",
+        "autoprefixer": "^10.3.6",
         "bootstrap": "^5.1.1",
         "bootstrap-datepicker": "^1.9.0",
         "boxicons": "^2.0.8",
@@ -24,7 +24,7 @@
         "laravel-mix": "^6.0.31",
         "lodash": "^4.17.21",
         "popper.js": "^1.16",
-        "postcss": "^8.3.7",
+        "postcss": "^8.3.8",
         "resolve-url-loader": "^4.0.0",
         "sass": "^1.42.1",
         "sass-loader": "^12.1.0",
