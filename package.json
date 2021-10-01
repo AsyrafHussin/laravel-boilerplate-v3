@@ -10,7 +10,7 @@
         "production": "mix --production"
     },
     "devDependencies": {
-        "@ckeditor/ckeditor5-build-classic": "^29.2.0",
+        "@ckeditor/ckeditor5-build-classic": "^30.0.0",
         "autoprefixer": "^10.3.6",
         "bootstrap": "^5.1.1",
         "bootstrap-datepicker": "^1.9.0",
