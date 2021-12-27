@@ -10,25 +10,25 @@
         "production": "mix --production"
     },
     "devDependencies": {
-        "@ckeditor/ckeditor5-build-classic": "^31.0.0",
+        "@ckeditor/ckeditor5-build-classic": "^31.1.0",
         "autoprefixer": "^10.4.0",
         "bootstrap": "^5.1.3",
         "bootstrap-datepicker": "^1.9.0",
-        "boxicons": "^2.0.8",
+        "boxicons": "^2.1.1",
         "browser-sync": "^2.27.7",
         "browser-sync-webpack-plugin": "^2.3.0",
         "cross-env": "^7.0.3",
-        "cssnano": "^5.0.11",
+        "cssnano": "^5.0.14",
         "import-glob-loader": "^1.1.0",
         "jquery": "^3.6.0",
         "laravel-mix": "^6.0.39",
         "lodash": "^4.17.21",
         "popper.js": "^1.16",
-        "postcss": "^8.4.1",
+        "postcss": "^8.4.5",
         "resolve-url-loader": "^4.0.0",
-        "sass": "^1.43.5",
-        "sass-loader": "^12.3.0",
-        "sweetalert2": "^11.2.1",
+        "sass": "^1.45.1",
+        "sass-loader": "^12.4.0",
+        "sweetalert2": "^11.3.0",
         "vue-template-compiler": "^2.6.12"
     }
 }
