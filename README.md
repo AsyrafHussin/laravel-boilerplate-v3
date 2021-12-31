@@ -1,6 +1,6 @@
 # Laravel Boilerplate
 
-My Laravel Boilerplate v3 Test
+My Laravel Boilerplate v3
 
 ## Laravel Version
 
